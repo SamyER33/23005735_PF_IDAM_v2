@@ -1,0 +1,15 @@
+
+.task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .completed-task {
+    background-color: #d4f8d4;
+  }
